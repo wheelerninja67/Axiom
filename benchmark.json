@@ -1,0 +1,26 @@
+[
+  {
+    "target": "Nike SNKRS",
+    "url": "https://www.nike.com/launch",
+    "mitigation_detected": "Akamai Bot Manager",
+    "axiom_latency_ms": 482,
+    "competitor_latency_ms": 3105,
+    "status": "SUCCESS"
+  },
+  {
+    "target": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/quote/NVDA",
+    "mitigation_detected": "None (Heavy SPA)",
+    "axiom_latency_ms": 315,
+    "competitor_latency_ms": 2840,
+    "status": "SUCCESS"
+  },
+  {
+    "target": "LinkedIn Jobs",
+    "url": "https://www.linkedin.com/jobs",
+    "mitigation_detected": "LinkedIn Sentinel",
+    "axiom_latency_ms": 512,
+    "competitor_latency_ms": 4120,
+    "status": "SUCCESS"
+  }
+]
