@@ -1,8 +1,4 @@
-```
-
-
 # Axiom Core
-
 **Enterprise-Grade Heuristic Extraction & Data Intelligence API**
 
 [![Infrastructure: GCP Cloud Run](https://img.shields.io/badge/Infrastructure-GCP_Cloud_Run-blue.svg)](#)
