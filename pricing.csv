@@ -1,0 +1,5 @@
+Tier,Monthly_Fee_Cents,Included_Requests,Price_Per_Extra_Request_Cents
+Free,0,500,0.5
+Starter,3113,10000,0.3
+Professional,10101,50000,0.2
+Business,30110,200000,0.15
