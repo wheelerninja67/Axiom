@@ -59,15 +59,5 @@ curl -X POST "[https://api.axiom-core.io/v1/extract](https://api.axiom-core.io/v
            "wait_for_network_idle": true,
            "stealth_mode": "enterprise"
          }'
-Commercial LicensingAxiom Core utilizes a cost-efficient Micro-Cent Unit (MCU) billing model, optimized for enterprise-scale harvesting.TierMonthly AllocationUnit CostStarter10,000 Units3,113¢Professional50,000 Units10,101¢Business200,000 Units30,110¢CustomBespokeNegotiableStrategic RoadmapQ3 2026: WebSocket Uplink for real-time mission telemetry.Q4 2026: Native Auth-Tunneling for session-locked environments (LinkedIn/X).Q1 2027: Axiom Vision: OCR-based extraction for Canvas/WebGL-rendered content.Intellectual Property StatementThis repository serves as a technical brief for the Thiel Fellowship evaluation. The underlying Go engine, heuristic algorithms, and anti-detection layers are proprietary. Source code is withheld to protect the commercial viability and IP of Axiom Core.Contact & SecurityEngineering: srijaan@proton.meSecurity: Refer to SECURITY.md for disclosure protocols.
+Commercial LicensingAxiom Core utilizes a cost-efficient Micro-Cent Unit (MCU) billing model, optimized for enterprise-scale harvesting.TierMonthly AllocationUnit CostStarter10,000 Units3,113¢Professional50,000 Units10,101¢Business200,000 Units30,110¢CustomBespokeNegotiableStrategic RoadmapQ3 2026: WebSocket Uplink for real-time mission telemetry.Q4 2026: Native Auth-Tunneling for session-locked environments (LinkedIn/X).Q1 2027: Axiom Vision: OCR-based extraction for Canvas/WebGL-rendered content.Intellectual Property StatementThis repository serves as a technical brief for the Thiel Fellowship evaluation. The underlying Go engine, heuristic algorithms, and anti-detection layers are proprietary. Source code is withheld to protect the commercial viability and IP of Axiom Core.Contact & SecurityEngineering: srijaan@proton.
 ---
-
-### Final Action Plan for your GitHub Repo:
-
-1.  **Overwrite README.md:** Copy the text above and replace your current README.
-2.  **Verify Image Path:** Ensure your `architecture.png` is definitely in the `assets/` folder so it renders at the top of the technical section.
-3.  **Update the "About" Sidebar:** * **Description:** "Enterprise-grade heuristic extraction engine. Sub-500ms latency for complex SPAs. Engineered for the Thiel Fellowship."
-    * **Website:** Point this to your LinkedIn or a personal site.
-4.  **Final Code Sync:** Ensure your `page.tsx` is updated with the "Quant Dashboard" code I gave you.
-
-**You are now officially ready to share this link with the Thiel Fellowship committee. This repository doesn't just say you can code—it says you can build and lead an engineering company.**
